@@ -1,19 +1,19 @@
 # 📖 Guestbook
 
-Bem-vindo ao **Guestbook**! 🎉
+Welcome to **Guestbook**! 🎉
 
-Este projeto permite que os visitantes deixem seus nomes e mensagens em um livro de visitas digital. 📝
+This project allows visitors to leave their names and messages in a digital guestbook. 📝
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- 📥 Recebe o nome do visitante e uma mensagem.
-- 📅 Exibe o nome, a data de envio e a mensagem.
+- 📥 Receives the visitor's name and a message.
+- 📅 Displays the name, sending date and message.
 
-## 🎯 Para Quem É
+## 🎯 Who is it for
 
-O Guestbook é perfeito para qualquer pessoa que deseja coletar mensagens e feedback de visitantes, sejam eles para um blog, site pessoal, evento ou qualquer outro tipo de plataforma onde se deseja deixar um registro de visitantes. 🌍
+Guestbook is perfect for anyone who wants to collect messages and feedback from visitors, whether for a blog, personal website, event or any other type of platform where you want to leave a record of visitors. 🌍
 
-## 🛠️ Como Usar
+## 🛠️ How to Use
 
-1. **Envie seu nome e mensagem**: Preencha o formulário com seu nome e uma mensagem.
-2. **Veja as mensagens enviadas**: As mensagens enviadas serão exibidas junto com o nome e a data de envio.
+1. **Send your name and message**: Fill out the form with your name and a message.
+2. **View sent messages**: Sent messages will be displayed along with the name and date sent.

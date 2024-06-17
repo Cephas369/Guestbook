@@ -1,0 +1,3 @@
+[submodule "Guestbook"]
+	path = Guestbook
+	url = https://github.com/isNikol4s/Guestbook
